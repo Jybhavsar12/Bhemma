@@ -1,4 +1,4 @@
-# Security Dashboard
+# Bhemma - Security Dashboard
 
 A comprehensive cybersecurity monitoring and analysis dashboard built in Bash.
 
@@ -16,8 +16,8 @@ A comprehensive cybersecurity monitoring and analysis dashboard built in Bash.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd security-dashboard
+git clone https://github.com/Jybhavsar12/Bhemma.git
+cd Bhemma
 ```
 
 2. Run the installation script:
