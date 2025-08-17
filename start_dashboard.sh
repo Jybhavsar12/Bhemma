@@ -2,7 +2,8 @@
 # Dashboard startup script
 
 echo "╔═══════════════════════════════════════════════════════════╗"
-echo "║                 CYBERSECURITY DASHBOARD                   ║"
+echo "║                        BHEMMA                             ║"
+echo "║              Security Dashboard v2.0                     ║"
 echo "║                      Initializing...                     ║"
 echo "╚═══════════════════════════════════════════════════════════╝"
 
