@@ -1,4 +1,5 @@
 # Bhemma - Security Dashboard
+![answer 2025-08-16 at 10 06 27 PM](https://github.com/user-attachments/assets/f81665c9-e62b-4c9d-a2e2-1ba0933ca79f)
 
 A comprehensive cybersecurity monitoring and analysis dashboard built in Bash.
 
